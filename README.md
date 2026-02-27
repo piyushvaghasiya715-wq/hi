@@ -442,3 +442,8 @@ else:
 # પ્રોગ્રામ શરૂ કરવા માટે
 my_school = School()
 my_school.display_info()
+git init
+git add
+git commit-m
+git branch-m main
+git remot add origin
